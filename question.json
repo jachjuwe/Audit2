@@ -1,10 +1,10 @@
 [
 {
-    "question" : "What is operating system?",
+    "question" : "What is a significant component?",
     "a": "Collection of programs that manages hardware resources",
-    "b": "Link to interface the hardware and application program",
-    "c": "System service provider to the application program",
-    "d": "All of the mentioned",
+    "b": "A component unlikely to include significant risks of material misstatement of the group financial statements due to its specific nature or circumstances (i.e. specific risks)",
+    "c": "Neither (a) nor (b)",
+    "d": "(a) and (b)",
     "answer": "d"
 }
 ]
